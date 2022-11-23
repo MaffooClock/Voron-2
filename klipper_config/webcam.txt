@@ -20,7 +20,7 @@ camera="usb"
 #
 # Defaults to a resolution of 640x480 px and a framerate of 10 fps
 #
-camera_usb_options="-d /dev/v4l/by-id/usb-Arducam_Technology_Co.__Ltd._Arducam_IMX298_Camera_UC726-video-index0 -r 1920x1080 -f 30 -rot 180"
+camera_usb_options="-d /dev/v4l/by-id/usb-Arducam_Technology_Co.__Ltd._Arducam_IMX298_Camera_UC726-video-index0 -r 1920x1080 -f 30"
 
 ### Additional webcam devices known to cause problems with -f
 #
