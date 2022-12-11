@@ -1,4 +1,4 @@
-This is the Klipper config for my 350mm² Voron 2.4r2, built September through November 2022.
+This is the Klipper config for my 350mm² Voron 2.4r2, built September through November 2022 (cerial number V2.4465).
 
 ![Voron Logo](/images/voron_logo.png)  ![Built Not Bought](/images/built_not_bought.png)
 
